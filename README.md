@@ -37,7 +37,7 @@ Refer to [Link](https://raux.github.io/Impact-of-Security-Advisories-on-Library-
 
 Here are other samples of DDP's build for other projects.
 
-ASM ![DDP](https://raw.githubusercontent.com/raux/Visualizing-the-Evolution-of-Systems-and-their-Library-Dependencies/blob/master/data/DDPASM.pdf)
+ASM <embed src="https://github.com/raux/Visualizing-the-Evolution-of-Systems-and-their-Library-Dependencies/blob/master/data/DDPASM.pdf" type="application/pdf" />
 
 Scala [DDP](https://github.com/raux/Visualizing-the-Evolution-of-Systems-and-their-Library-Dependencies/blob/master/data/DDPScala.pdf)
 
