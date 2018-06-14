@@ -22,9 +22,6 @@ through four case scenarios.
 
 Our Dependency Extraction Tool for Maven Libraries: [PomWalker](https://github.com/raux/PomWalker)
 
-Java Library to mine and extract Library Migrations
-[JGit](http://www.eclipse.org/jgit/)
-
 R statistics Tool (For Visualization) [R](https://www.r-project.org/)
 
 Notable R Packages used [ggplot2](http://ggplot2.org/), [plyr](https://cran.r-project.org/web/packages/plyr/index.html),
@@ -37,7 +34,7 @@ Refer to [Link](https://raux.github.io/Impact-of-Security-Advisories-on-Library-
 
 Here are other samples of DDP's build for other projects.
 
-ASM <embed src="https://github.com/raux/Visualizing-the-Evolution-of-Systems-and-their-Library-Dependencies/blob/master/data/DDPASM.pdf" type="application/pdf" />
+ASM [DDP](https://github.com/raux/Visualizing-the-Evolution-of-Systems-and-their-Library-Dependencies/blob/master/data/DDPASM.pdf)
 
 Scala [DDP](https://github.com/raux/Visualizing-the-Evolution-of-Systems-and-their-Library-Dependencies/blob/master/data/DDPScala.pdf)
 
