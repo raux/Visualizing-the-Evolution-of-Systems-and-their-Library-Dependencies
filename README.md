@@ -33,7 +33,7 @@ Notable R Packages used [ggplot2](http://ggplot2.org/), [plyr](https://cran.r-pr
 
 Refer to [Link](https://raux.github.io/Impact-of-Security-Advisories-on-Library-Migrations/) for our EMSE 2017 version of the DDP (LDP).
 
-## Samples
+## Samples Studied
 
 Here are other samples of DDP's build for other projects.
 
@@ -42,7 +42,8 @@ ASM [DDP](https://github.com/raux/Visualizing-the-Evolution-of-Systems-and-their
 Scala [DDP](https://github.com/raux/Visualizing-the-Evolution-of-Systems-and-their-Library-Dependencies/blob/master/data/DDPScala.pdf)
 
 JavaScript [DDP](https://github.com/raux/Visualizing-the-Evolution-of-Systems-and-their-Library-Dependencies/blob/master/data/DDPJavassit.pdf)
-----
+
+## Others
 TestNg[DDP](https://github.com/raux/Visualizing-the-Evolution-of-Systems-and-their-Library-Dependencies/blob/master/data/DDPTestng.pdf)
 
 H2 [DDP](https://github.com/raux/Visualizing-the-Evolution-of-Systems-and-their-Library-Dependencies/blob/master/data/DDPh2.pdf)
