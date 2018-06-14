@@ -37,13 +37,27 @@ Refer to [Link](https://raux.github.io/Impact-of-Security-Advisories-on-Library-
 
 Here are other samples of DDP's build for other projects.
 
-ASM ([DDP](https://github.com/raux/Visualizing-the-Evolution-of-Systems-and-their-Library-Dependencies/data/DDP/DDPasm.pdf)) 
+ASM [DDP](https://github.com/raux/Visualizing-the-Evolution-of-Systems-and-their-Library-Dependencies/blob/master/data/DDPASM.pdf)
 
-Javassist (DDP)
-Scala (DDP)
-JUnit (DDP)
-Commons-io (DDP)
-Bcel (DDP)
+Scala [DDP](https://github.com/raux/Visualizing-the-Evolution-of-Systems-and-their-Library-Dependencies/blob/master/data/DDPScala.pdf)
+
+JavaScript [DDP](https://github.com/raux/Visualizing-the-Evolution-of-Systems-and-their-Library-Dependencies/blob/master/data/DDPJavassit.pdf)
+----
+TestNg[DDP](https://github.com/raux/Visualizing-the-Evolution-of-Systems-and-their-Library-Dependencies/blob/master/data/DDPTestng.pdf)
+
+H2 [DDP](https://github.com/raux/Visualizing-the-Evolution-of-Systems-and-their-Library-Dependencies/blob/master/data/DDPh2.pdf)
+
+Guava [DDP](https://github.com/raux/Visualizing-the-Evolution-of-Systems-and-their-Library-Dependencies/blob/master/data/DDPGuava.pdf)
+
+Derby [DDP](https://github.com/raux/Visualizing-the-Evolution-of-Systems-and-their-Library-Dependencies/blob/master/data/DDPDerby.pdf)
+
+Commons [DDP](https://github.com/raux/Visualizing-the-Evolution-of-Systems-and-their-Library-Dependencies/blob/master/data/DDPCommons.pdf)
+
+Cglib [DDP](https://github.com/raux/Visualizing-the-Evolution-of-Systems-and-their-Library-Dependencies/blob/master/data/DDPCglib.pdf)
+
+BCel [DDP](https://github.com/raux/Visualizing-the-Evolution-of-Systems-and-their-Library-Dependencies/blob/master/data/DDPBcel.pdf)
+
+Junit [DDP](https://github.com/raux/Visualizing-the-Evolution-of-Systems-and-their-Library-Dependencies/blob/master/data/DDPJunit.pdf)
 Cglib (DDP)
 Spring-core (DDP)
 Testng (DDP)
