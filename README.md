@@ -31,7 +31,7 @@ Notable R Packages used [ggplot2](http://ggplot2.org/), [plyr](https://cran.r-pr
 [sqldf](https://cran.r-project.org/web/packages/sqldf/),
 [gridExtra](https://cran.r-project.org/web/packages/gridExtra/gridExtra.pdf)
 
-Refer to [Link](https://raux.github.io/Impact-of-Security-Advisories-on-Library-Migrations/) for an advanced version of the DDP.
+Refer to [Link](https://raux.github.io/Impact-of-Security-Advisories-on-Library-Migrations/) for our EMSE 2017 version of the DDP (LDP).
 
 ## Samples
 
