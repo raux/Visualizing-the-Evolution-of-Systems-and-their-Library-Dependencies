@@ -1,3 +1,7 @@
-## Welcome to GitHub Pages Template
+## Visualizing the Evolution of Systems and their Library Dependencies
+####(Working Conference on Software Visualization)
 
-You can use the [editor on GitHub](https://github.com/raux/Visualizing-the-Evolution-of-Systems-and-their-Library-Dependencies/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Link to Publication](http://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/archive/951/951.pdf)
+[Slides](http://sel.ist.osaka-u.ac.jp/lab-db/betuzuri/archive/951/951.pptx)
+
+### Abstract
